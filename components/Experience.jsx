@@ -21,7 +21,6 @@ const Experience = () => {
               <p className="mt-4 text-sm text-gray-500">
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
               <li className='mb-1'>Worked 8 months full-time and 8 months part-time at IBM.</li>
-                <li> </li>
                 <li>Developed code using languages like Python that works with Whitesource APIs to extract useful information of different PVRs. </li>
                 <li> Integrated and transformed structured and semi-structured data from diverse sources into
 delta lake and Synapse Lakehouse, optimizing storage and query performance. </li>
@@ -36,6 +35,19 @@ improving delivery timelines.  </li>
               </p>
             </div>
           </div>
+          {/* Experience Card 2 */}
+          <div className="bg-white overflow-hidden shadow rounded-lg shadow-xl rounded-xl hover:scale-105 ease-in duration-300 bg-gradient-to-r from-gray-100 to-blue-100 animate-gradient">
+            <div className="px-4 py-5 sm:p-6">
+              <h3 className="text-lg font-medium text-gray-900 border-b">Kent Building Supplies </h3>
+              <p className="text-lg font-medium text-gray-900 border-b">Appliance Sales Associate</p>
+              <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
+                <li className='mb-1'>Sharpened communication skills by performing Sales of atleast $13,000 each month working part-time.</li>
+                <li>Gained hands-on experience using Microsoft D365, Microsoft Azure Cloud, Microsoft Active Directory, and Microsoft Power BI.</li>
+              </ul>
+            </div>
+          </div>
+
+          
           {/* Experience Card 2 */}
         
           <div className="bg-white overflow-hidden shadow rounded-lg shadow-xl rounded-xl hover:scale-105 ease-in duration-300 bg-gradient-to-r from-gray-100 to-blue-100 animate-gradient">
