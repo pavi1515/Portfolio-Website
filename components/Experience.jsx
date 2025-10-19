@@ -17,20 +17,21 @@ const Experience = () => {
           <div className="bg-white overflow-hidden shadow rounded-lg shadow-xl rounded-xl hover:scale-105 ease-in duration-300 bg-gradient-to-r from-gray-100 to-blue-100 animate-gradient">
             <div className="px-4 py-5 sm:p-6">
               <h3 className="text-lg font-medium text-gray-900 border-b">IBM - 1 year 4 months</h3>
-              <p className="text-lg font-medium text-gray-900 border-b">Software Developer Intern (Security)</p>
+              <p className="text-lg font-medium text-gray-900 border-b">Software Developer Intern </p>
               <p className="mt-4 text-sm text-gray-500">
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
               <li className='mb-1'>Worked 8 months full-time and 8 months part-time at IBM.</li>
-                <li>Software Engineered code to be included into the backend systems of Security Intelligence Tools at IBM. </li>
+                <li> </li>
                 <li>Developed code using languages like Python that works with Whitesource APIs to extract useful information of different PVRs. </li>
-                <li>Understood with the help of my colleague, the process of using Podman. </li>
+                <li> Integrated and transformed structured and semi-structured data from diverse sources into
+delta lake and Synapse Lakehouse, optimizing storage and query performance. </li>
                 <li>Worked with Python, MATLAB, Node.js, Angular, Flask, Bootstrap, Vue.js, SQL, AQL, APIs, Linux, TypeScript, JavaScript, and Docker.</li>
-                <li>Performed security validation or web application penetration testing on apps made using Python, MySql, Javascript, Redis, Angular, React, SQL, and Node.js, with tools like BurpSuite, SonarQube and many more on IBM X-Force App Exchange apps.  </li>
-                <li>Resolved queries of IBM Qradar Customers with fixing OWASP Top 10 vulnerabilities.  </li>
-                <li>Used tools like Mend (WhiteSource), OWASP Dependency Check to find and fix vulnerabilities in IBM and IBM Third-party applications.  </li>
-                <li><b>Major Accomplishment:</b> Found Log Injection Vulnerability in IBM’s open-source library.  </li>
-                <li>Worked in a DevSecOps environment doing security testing on pre-release version of the apps submitted on IBM X-Force App Exchange.  </li>
-              
+                <li> Improved query performance and storage optimization by applying partitioning, indexing,
+and caching strategies in Synapse SQL pools and Delta Lake.  </li>
+                <li> Managed and optimized data and analytics environments and platforms, including Azure
+Data Factory, Azure Data Lake, and Azure Synapse.  </li>
+                <li>Automated data ingestion and transformation workflows, reducing manual intervention and
+improving delivery timelines.  </li>
               </ul>
               </p>
             </div>
