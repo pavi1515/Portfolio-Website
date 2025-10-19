@@ -24,13 +24,13 @@ const Main = () => {
                     className='text-gray-800 shadow-md'
                     sequence={[
                         // Same substring at the start will only be typed out once, initially
-                        'I am a developer',
+                        'I am a Software Developer',
                         1000, // wait 1s before replacing "Mice" with "Hamsters"
-                        'I am a CyberSecurity Developer/Analyst',
+                        'I am a Data Engineer',
                         1000,
                         'I am a Machine Learning Developer',
                         1000,
-                        'I am a Data Scientist',
+                        'I am a Data Analyst',
                         1000
                     ]}
                     wrapper="span"
